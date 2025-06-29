@@ -1,0 +1,5 @@
+"name": "USDT",
+  "symbol": "$",
+  "description": "My USDT Token on TON",
+  "image": "https://i.postimg.cc/g2YqLzH2/IMG-2953.jpg",
+  "decimals": 9
